@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.github.chrisbanes.pulltorefresh</groupId>
-	<artifactId>extra-listfragment</artifactId>
+	<artifactId>pulltorefresh-extra-listfragment</artifactId>
 	<packaging>apklib</packaging>
 	<name>Android-PullToRefresh Extras: ListFragment</name>
 	
@@ -25,7 +25,7 @@
 		</dependency>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
-			<artifactId>library</artifactId>
+			<artifactId>pulltorefresh-library</artifactId>
 			<type>apklib</type>
 			<version>${project.version}</version>
 		</dependency>
